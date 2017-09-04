@@ -1,0 +1,96 @@
+Sun Aug 27 14:49:38 2017 :: Loading configuration settings from ../area/qmconfig.rc.
+Sun Aug 27 14:49:38 2017 :: Set IP address to 0.0.0.0
+Sun Aug 27 14:49:38 2017 :: Loading area immort.are
+Sun Aug 27 14:49:38 2017 :: Loading area ofcol2.are
+Sun Aug 27 14:49:38 2017 :: Loading area shire.are
+Sun Aug 27 14:49:38 2017 :: Loading area midgaard.are
+Sun Aug 27 14:49:38 2017 :: Loading area plains.are
+Sun Aug 27 14:49:38 2017 :: Loading area haon.are
+Sun Aug 27 14:49:38 2017 :: Loading area air.are
+Sun Aug 27 14:49:38 2017 :: Loading area arachnos.are
+Sun Aug 27 14:49:38 2017 :: Loading area astral.are
+Sun Aug 27 14:49:38 2017 :: Loading area canyon.are
+Sun Aug 27 14:49:38 2017 :: Loading area catacomb.are
+Sun Aug 27 14:49:38 2017 :: Loading area chapel.are
+Sun Aug 27 14:49:38 2017 :: Loading area daycare.are
+Sun Aug 27 14:49:38 2017 :: Loading area draconia.are
+Sun Aug 27 14:49:38 2017 :: Loading area dream.are
+Sun Aug 27 14:49:38 2017 :: Loading area drow.are
+Sun Aug 27 14:49:38 2017 :: Loading area thalos.are
+Sun Aug 27 14:49:38 2017 :: Loading area dwarven.are
+Sun Aug 27 14:49:38 2017 :: Loading area dylan.are
+Sun Aug 27 14:49:38 2017 :: Loading area eastern.are
+Sun Aug 27 14:49:38 2017 :: Loading area galaxy.are
+Sun Aug 27 14:49:38 2017 :: Loading area gnome.are
+Sun Aug 27 14:49:38 2017 :: Loading area grave.are
+Sun Aug 27 14:49:38 2017 :: Loading area grove.are
+Sun Aug 27 14:49:38 2017 :: Loading area hitower.are
+Sun Aug 27 14:49:38 2017 :: Loading area hood.are
+Sun Aug 27 14:49:38 2017 :: Loading area limbo.are
+Sun Aug 27 14:49:38 2017 :: Loading area mahntor.are
+Sun Aug 27 14:49:38 2017 :: Loading area marsh.are
+Sun Aug 27 14:49:38 2017 :: Loading area mega1.are
+Sun Aug 27 14:49:38 2017 :: Loading area midennir.are
+Sun Aug 27 14:49:38 2017 :: Loading area mirror.are
+Sun Aug 27 14:49:38 2017 :: Loading area mobfact.are
+Sun Aug 27 14:49:38 2017 :: Loading area moria.are
+Sun Aug 27 14:49:38 2017 :: Loading area newthalos.are
+Sun Aug 27 14:49:38 2017 :: Loading area nirvana.are
+Sun Aug 27 14:49:38 2017 :: Loading area ofcol.are
+Sun Aug 27 14:49:38 2017 :: Loading area olympus.are
+Sun Aug 27 14:49:38 2017 :: Loading area pyramid.are
+Sun Aug 27 14:49:38 2017 :: Loading area quifael.are
+Sun Aug 27 14:49:38 2017 :: Loading area sewer.are
+Sun Aug 27 14:49:38 2017 :: Loading area redferne.are
+Sun Aug 27 14:49:38 2017 :: Loading area school.are
+Sun Aug 27 14:49:38 2017 :: Loading area smurf.are
+Sun Aug 27 14:49:38 2017 :: Loading area tohell.are
+Sun Aug 27 14:49:38 2017 :: Loading area trollden.are
+Sun Aug 27 14:49:38 2017 :: Loading area valley.are
+Sun Aug 27 14:49:38 2017 :: Loading area wyvern.are
+Sun Aug 27 14:49:38 2017 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sun Aug 27 14:49:38 2017 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sun Aug 27 14:49:38 2017 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sun Aug 27 14:49:38 2017 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9227)(Level 28) an icicle
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9215)(Level  4) a flame
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9215)(Level  4) a flame
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Sun Aug 27 14:49:38 2017 :: Check Levels:
+Sun Aug 27 14:49:38 2017 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Sun Aug 27 14:49:38 2017 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Sun Aug 27 14:49:38 2017 :: ROM is ready to rock on port 4000 (0.0.0.0).
+Sun Aug 27 14:49:38 2017 :: IMC: Loading IMC2 command table...
+Sun Aug 27 14:49:38 2017 :: IMC: Loading IMC2 network data...
+Sun Aug 27 14:49:38 2017 :: IMC: Loading IMC2 help file...
+Sun Aug 27 14:49:38 2017 :: IMC: Loading IMC2 color table...
+Sun Aug 27 14:49:38 2017 :: IMC: Loading IMC2 who template...
+Sun Aug 27 14:49:38 2017 :: IMC: imcfread_word: EOF encountered on read.
+Sun Aug 27 14:49:38 2017 :: IMC: IMC2 network data loaded. Autoconnect not set. IMC2 will need to be connected manually.
+Sun Aug 27 14:51:30 2017 :: Sock.sinaddr:  10.0.0.168
+Sun Aug 27 14:52:20 2017 :: Theutus@TDebian9T new player.
+Sun Aug 27 14:54:38 2017 :: [*****] BUG: Save_char_obj: fopen
+../player/Theutus: No such file or directory

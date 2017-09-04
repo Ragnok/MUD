@@ -1,0 +1,3 @@
+Sun Aug 27 15:07:52 2017 :: Loading configuration settings from ../area/qmconfig.rc.
+Sun Aug 27 15:07:52 2017 :: Set IP address to 0.0.0.0
+Init socket: bind: Address already in use
